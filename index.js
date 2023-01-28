@@ -7,4 +7,4 @@ function percent () {
     else if(percentage >= 70 && percentage < 80){'A'}
     else(percentage >= 80){'A+'}
 }
-console.log(percentage)
+alert (percentage)
